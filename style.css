@@ -1,0 +1,33 @@
+.top
+{background-color:#E4F9F5;
+   
+border:solid 10px;
+}
+.circular{
+    border-radius: 100%;
+}
+body
+{text-align:centre;
+}
+
+h1
+{margin:0;
+    font-family: 'sacramento';
+
+}
+.middle{}
+
+.bottom{}
+
+.bottom-cloud{
+    position:absolute;
+    left:10px;}
+.top-cloud{
+    position:absolute;
+    right:20px;
+}
+.image-top{
+    position:absolute;
+    right:50px;
+}
+ 
